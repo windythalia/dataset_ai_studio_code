@@ -1,0 +1,301 @@
+Transaction_ID;Date;Department;Project_Name;Category;Budget_Allocated;Actual_Spending;Revenue_Generated;Status
+TRX-001;12/01/2024;IT Transformation;Pengembangan LMS Telkom;Lisensi;250000000;245000000;0;Selesai
+TRX-002;15/01/2024;Learning Dev;Pelatihan Digital Transformation;Vendor Fee;120000000;135000000;180000000;Selesai
+TRX-003;20/01/2024;Leadership Center;Leadership Executive Batch 5;Sewa Venue;300000000;290000000;0;Selesai
+TRX-004;25/01/2024;Digital Talent;Sertifikasi Cloud Computing;Honorarium;80000000;85000000;100000000;Selesai
+TRX-005;02/02/2024;Admin & Finance;Workshop AI Bisnis;Konsumsi;15000000;12000000;0;Selesai
+TRX-006;08/02/2024;Learning Dev;Pelatihan Soft Skill;Marketing;45000000;50000000;60000000;Selesai
+TRX-007;14/02/2024;IT Transformation;Pengembangan LMS Telkom;Operasional;60000000;58000000;0;Selesai
+TRX-008;22/02/2024;Leadership Center;Leadership Executive Batch 5;Honorarium;150000000;165000000;0;Selesai
+TRX-009;01/03/2024;Digital Talent;Workshop AI Bisnis;Vendor Fee;200000000;190000000;250000000;Selesai
+TRX-010;05/03/2024;Admin & Finance;Pelatihan Soft Skill;Sewa Venue;35000000;35000000;0;Dibatalkan
+TRX-011;12/03/2024;Learning Dev;Pelatihan Digital Transformation;Konsumsi;25000000;28000000;40000000;Selesai
+TRX-012;18/03/2024;IT Transformation;Sertifikasi Cloud Computing;Lisensi;400000000;410000000;0;Berjalan
+TRX-013;25/03/2024;Leadership Center;Leadership Executive Batch 5;Marketing;20000000;25000000;0;Selesai
+TRX-014;02/04/2024;Digital Talent;Pengembangan LMS Telkom;Vendor Fee;450000000;440000000;0;Berjalan
+TRX-015;10/04/2024;Admin & Finance;Pelatihan Digital Transformation;Operasional;15000000;14000000;0;Selesai
+TRX-016;15/04/2024;Learning Dev;Sertifikasi Cloud Computing;Honorarium;90000000;95000000;120000000;Selesai
+TRX-017;22/04/2024;IT Transformation;Workshop AI Bisnis;Sewa Venue;100000000;110000000;0;Selesai
+TRX-018;28/04/2024;Leadership Center;Pelatihan Soft Skill;Konsumsi;12000000;11500000;0;Selesai
+TRX-019;05/05/2024;Digital Talent;Leadership Executive Batch 5;Vendor Fee;280000000;270000000;350000000;Selesai
+TRX-020;12/05/2024;Admin & Finance;Pengembangan LMS Telkom;Lisensi;150000000;155000000;0;Berjalan
+TRX-021;18/05/2024;Learning Dev;Workshop AI Bisnis;Marketing;30000000;32000000;45000000;Selesai
+TRX-022;25/05/2024;IT Transformation;Pelatihan Digital Transformation;Honorarium;110000000;100000000;0;Selesai
+TRX-023;01/06/2024;Leadership Center;Sertifikasi Cloud Computing;Operasional;50000000;55000000;0;Selesai
+TRX-024;07/06/2024;Digital Talent;Pelatihan Soft Skill;Sewa Venue;40000000;38000000;50000000;Selesai
+TRX-025;14/06/2024;Admin & Finance;Leadership Executive Batch 5;Konsumsi;20000000;22000000;0;Dibatalkan
+TRX-026;21/06/2024;Learning Dev;Pengembangan LMS Telkom;Vendor Fee;500000000;480000000;0;Berjalan
+TRX-027;28/06/2024;IT Transformation;Workshop AI Bisnis;Lisensi;180000000;190000000;0;Selesai
+TRX-028;03/07/2024;Leadership Center;Pelatihan Digital Transformation;Marketing;25000000;24000000;0;Selesai
+TRX-029;10/07/2024;Digital Talent;Sertifikasi Cloud Computing;Honorarium;130000000;140000000;170000000;Selesai
+TRX-030;17/07/2024;Admin & Finance;Pelatihan Soft Skill;Operasional;10000000;11000000;0;Selesai
+TRX-031;24/07/2024;Learning Dev;Leadership Executive Batch 5;Sewa Venue;350000000;360000000;450000000;Selesai
+TRX-032;01/08/2024;IT Transformation;Pengembangan LMS Telkom;Konsumsi;18000000;17500000;0;Selesai
+TRX-033;08/08/2024;Leadership Center;Workshop AI Bisnis;Vendor Fee;220000000;215000000;0;Berjalan
+TRX-034;15/08/2024;Digital Talent;Pelatihan Digital Transformation;Lisensi;140000000;145000000;200000000;Selesai
+TRX-035;22/08/2024;Admin & Finance;Sertifikasi Cloud Computing;Marketing;55000000;60000000;0;Selesai
+TRX-036;29/08/2024;Learning Dev;Pelatihan Soft Skill;Honorarium;70000000;68000000;90000000;Selesai
+TRX-037;04/09/2024;IT Transformation;Leadership Executive Batch 5;Operasional;30000000;32000000;0;Selesai
+TRX-038;11/09/2024;Leadership Center;Pengembangan LMS Telkom;Sewa Venue;420000000;430000000;0;Berjalan
+TRX-039;18/09/2024;Digital Talent;Workshop AI Bisnis;Konsumsi;28000000;25000000;35000000;Selesai
+TRX-040;25/09/2024;Admin & Finance;Pelatihan Digital Transformation;Vendor Fee;110000000;115000000;0;Selesai
+TRX-041;02/10/2024;Learning Dev;Sertifikasi Cloud Computing;Lisensi;200000000;195000000;260000000;Selesai
+TRX-042;09/10/2024;IT Transformation;Pelatihan Soft Skill;Marketing;15000000;16000000;0;Selesai
+TRX-043;16/10/2024;Leadership Center;Leadership Executive Batch 5;Honorarium;170000000;180000000;0;Selesai
+TRX-044;23/10/2024;Digital Talent;Pengembangan LMS Telkom;Operasional;85000000;80000000;110000000;Berjalan
+TRX-045;30/10/2024;Admin & Finance;Workshop AI Bisnis;Sewa Venue;130000000;125000000;0;Selesai
+TRX-046;06/11/2024;Learning Dev;Pelatihan Digital Transformation;Konsumsi;32000000;35000000;48000000;Selesai
+TRX-047;13/11/2024;IT Transformation;Sertifikasi Cloud Computing;Vendor Fee;380000000;400000000;0;Berjalan
+TRX-048;20/11/2024;Leadership Center;Pelatihan Soft Skill;Lisensi;45000000;42000000;0;Selesai
+TRX-049;27/11/2024;Digital Talent;Leadership Executive Batch 5;Marketing;60000000;65000000;85000000;Selesai
+TRX-050;04/12/2024;Admin & Finance;Pengembangan LMS Telkom;Honorarium;120000000;115000000;0;Berjalan
+TRX-051;08/12/2024;Learning Dev;Workshop AI Bisnis;Operasional;25000000;27000000;35000000;Selesai
+TRX-052;12/12/2024;IT Transformation;Pelatihan Digital Transformation;Sewa Venue;90000000;95000000;0;Selesai
+TRX-053;15/12/2024;Leadership Center;Sertifikasi Cloud Computing;Konsumsi;22000000;20000000;0;Berjalan
+TRX-054;18/12/2024;Digital Talent;Pelatihan Soft Skill;Vendor Fee;55000000;58000000;75000000;Selesai
+TRX-055;20/12/2024;Admin & Finance;Leadership Executive Batch 5;Lisensi;210000000;220000000;0;Berjalan
+TRX-056;22/12/2024;Learning Dev;Pengembangan LMS Telkom;Marketing;40000000;38000000;0;Dibatalkan
+TRX-057;24/12/2024;IT Transformation;Workshop AI Bisnis;Honorarium;140000000;145000000;0;Selesai
+TRX-058;26/12/2024;Leadership Center;Pelatihan Digital Transformation;Operasional;35000000;33000000;0;Selesai
+TRX-059;28/12/2024;Digital Talent;Sertifikasi Cloud Computing;Sewa Venue;160000000;170000000;220000000;Berjalan
+TRX-060;30/12/2024;Admin & Finance;Pelatihan Soft Skill;Konsumsi;12000000;13000000;0;Selesai
+TRX-061;02/01/2024;Learning Dev;Pelatihan Digital Transformation;Vendor Fee;135000000;142000000;190000000;Selesai
+TRX-062;05/01/2024;IT Transformation;Sertifikasi Cloud Computing;Lisensi;310000000;295000000;0;Selesai
+TRX-063;10/01/2024;Leadership Center;Leadership Executive Batch 5;Honorarium;185000000;190000000;0;Selesai
+TRX-064;15/01/2024;Digital Talent;Workshop AI Bisnis;Sewa Venue;75000000;80000000;110000000;Selesai
+TRX-065;20/01/2024;Admin & Finance;Pengembangan LMS Telkom;Operasional;45000000;42000000;0;Selesai
+TRX-066;25/01/2024;Learning Dev;Pelatihan Soft Skill;Konsumsi;18000000;20000000;25000000;Selesai
+TRX-067;30/01/2024;IT Transformation;Pelatihan Digital Transformation;Marketing;30000000;35000000;0;Selesai
+TRX-068;05/02/2024;Leadership Center;Sertifikasi Cloud Computing;Vendor Fee;240000000;230000000;0;Selesai
+TRX-069;10/02/2024;Digital Talent;Leadership Executive Batch 5;Lisensi;195000000;205000000;260000000;Selesai
+TRX-070;15/02/2024;Admin & Finance;Workshop AI Bisnis;Honorarium;95000000;90000000;0;Selesai
+TRX-071;20/02/2024;Learning Dev;Pengembangan LMS Telkom;Sewa Venue;380000000;400000000;0;Berjalan
+TRX-072;25/02/2024;IT Transformation;Pelatihan Soft Skill;Konsumsi;14000000;13500000;0;Selesai
+TRX-073;02/03/2024;Leadership Center;Pelatihan Digital Transformation;Operasional;55000000;60000000;0;Selesai
+TRX-074;07/03/2024;Digital Talent;Sertifikasi Cloud Computing;Marketing;42000000;40000000;60000000;Selesai
+TRX-075;12/03/2024;Admin & Finance;Leadership Executive Batch 5;Vendor Fee;320000000;310000000;0;Selesai
+TRX-076;17/03/2024;Learning Dev;Workshop AI Bisnis;Lisensi;160000000;175000000;220000000;Selesai
+TRX-077;22/03/2024;IT Transformation;Pengembangan LMS Telkom;Honorarium;115000000;110000000;0;Berjalan
+TRX-078;27/03/2024;Leadership Center;Pelatihan Soft Skill;Sewa Venue;48000000;52000000;0;Selesai
+TRX-079;01/04/2024;Digital Talent;Pelatihan Digital Transformation;Konsumsi;26000000;24000000;35000000;Selesai
+TRX-080;06/04/2024;Admin & Finance;Sertifikasi Cloud Computing;Operasional;70000000;75000000;0;Dibatalkan
+TRX-081;11/04/2024;Learning Dev;Leadership Executive Batch 5;Marketing;38000000;42000000;55000000;Selesai
+TRX-082;16/04/2024;IT Transformation;Workshop AI Bisnis;Vendor Fee;275000000;260000000;0;Selesai
+TRX-083;21/04/2024;Leadership Center;Pengembangan LMS Telkom;Lisensi;410000000;430000000;0;Berjalan
+TRX-084;26/04/2024;Digital Talent;Pelatihan Soft Skill;Honorarium;65000000;60000000;80000000;Selesai
+TRX-085;02/05/2024;Admin & Finance;Pelatihan Digital Transformation;Sewa Venue;95000000;105000000;0;Selesai
+TRX-086;07/05/2024;Learning Dev;Sertifikasi Cloud Computing;Konsumsi;29000000;32000000;42000000;Selesai
+TRX-087;12/05/2024;IT Transformation;Leadership Executive Batch 5;Operasional;40000000;38000000;0;Selesai
+TRX-088;17/05/2024;Leadership Center;Workshop AI Bisnis;Marketing;32000000;35000000;0;Selesai
+TRX-089;22/05/2024;Digital Talent;Pengembangan LMS Telkom;Vendor Fee;485000000;470000000;600000000;Berjalan
+TRX-090;27/05/2024;Admin & Finance;Pelatihan Soft Skill;Lisensi;50000000;55000000;0;Selesai
+TRX-091;01/06/2024;Learning Dev;Pelatihan Digital Transformation;Honorarium;125000000;120000000;170000000;Selesai
+TRX-092;06/06/2024;IT Transformation;Sertifikasi Cloud Computing;Sewa Venue;180000000;195000000;0;Selesai
+TRX-093;11/06/2024;Leadership Center;Leadership Executive Batch 5;Konsumsi;24000000;26000000;0;Selesai
+TRX-094;16/06/2024;Digital Talent;Workshop AI Bisnis;Operasional;35000000;32000000;45000000;Selesai
+TRX-095;21/06/2024;Admin & Finance;Pengembangan LMS Telkom;Marketing;45000000;50000000;0;Selesai
+TRX-096;26/06/2024;Learning Dev;Pelatihan Soft Skill;Vendor Fee;90000000;85000000;120000000;Selesai
+TRX-097;01/07/2024;IT Transformation;Pelatihan Digital Transformation;Lisensi;210000000;225000000;0;Berjalan
+TRX-098;06/07/2024;Leadership Center;Sertifikasi Cloud Computing;Honorarium;145000000;140000000;0;Selesai
+TRX-099;11/07/2024;Digital Talent;Leadership Executive Batch 5;Sewa Venue;370000000;385000000;500000000;Selesai
+TRX-100;16/07/2024;Admin & Finance;Workshop AI Bisnis;Konsumsi;21000000;23000000;0;Selesai
+TRX-101;21/07/2024;Learning Dev;Pengembangan LMS Telkom;Operasional;65000000;62000000;0;Berjalan
+TRX-102;26/07/2024;IT Transformation;Pelatihan Soft Skill;Marketing;18000000;20000000;0;Dibatalkan
+TRX-103;01/08/2024;Leadership Center;Pelatihan Digital Transformation;Vendor Fee;160000000;155000000;0;Selesai
+TRX-104;06/08/2024;Digital Talent;Sertifikasi Cloud Computing;Lisensi;280000000;295000000;380000000;Selesai
+TRX-105;11/08/2024;Admin & Finance;Leadership Executive Batch 5;Honorarium;200000000;210000000;0;Selesai
+TRX-106;16/08/2024;Learning Dev;Workshop AI Bisnis;Sewa Venue;110000000;105000000;145000000;Selesai
+TRX-107;21/08/2024;IT Transformation;Pengembangan LMS Telkom;Konsumsi;23000000;25000000;0;Selesai
+TRX-108;26/08/2024;Leadership Center;Pelatihan Soft Skill;Operasional;38000000;35000000;0;Selesai
+TRX-109;01/09/2024;Digital Talent;Pelatihan Digital Transformation;Marketing;45000000;48000000;65000000;Selesai
+TRX-110;06/09/2024;Admin & Finance;Sertifikasi Cloud Computing;Vendor Fee;340000000;330000000;0;Berjalan
+TRX-111;11/09/2024;Learning Dev;Leadership Executive Batch 5;Lisensi;220000000;235000000;300000000;Selesai
+TRX-112;16/09/2024;IT Transformation;Workshop AI Bisnis;Honorarium;130000000;125000000;0;Selesai
+TRX-113;21/09/2024;Leadership Center;Pengembangan LMS Telkom;Sewa Venue;440000000;460000000;0;Berjalan
+TRX-114;26/09/2024;Digital Talent;Pelatihan Soft Skill;Konsumsi;16000000;15000000;22000000;Selesai
+TRX-115;01/10/2024;Admin & Finance;Pelatihan Digital Transformation;Operasional;48000000;52000000;0;Selesai
+TRX-116;06/10/2024;Learning Dev;Sertifikasi Cloud Computing;Marketing;55000000;60000000;80000000;Selesai
+TRX-117;11/10/2024;IT Transformation;Leadership Executive Batch 5;Vendor Fee;310000000;300000000;0;Selesai
+TRX-118;16/10/2024;Leadership Center;Workshop AI Bisnis;Lisensi;175000000;190000000;0;Selesai
+TRX-119;21/10/2024;Digital Talent;Pengembangan LMS Telkom;Honorarium;140000000;135000000;185000000;Berjalan
+TRX-120;26/10/2024;Admin & Finance;Pelatihan Soft Skill;Sewa Venue;55000000;58000000;0;Selesai
+TRX-121;01/11/2024;Learning Dev;Pelatihan Digital Transformation;Konsumsi;28000000;30000000;42000000;Selesai
+TRX-122;06/11/2024;IT Transformation;Sertifikasi Cloud Computing;Operasional;85000000;80000000;0;Selesai
+TRX-123;11/11/2024;Leadership Center;Leadership Executive Batch 5;Marketing;52000000;55000000;0;Selesai
+TRX-124;16/11/2024;Digital Talent;Workshop AI Bisnis;Vendor Fee;260000000;250000000;340000000;Selesai
+TRX-125;21/11/2024;Admin & Finance;Pengembangan LMS Telkom;Lisensi;180000000;195000000;0;Berjalan
+TRX-126;26/11/2024;Learning Dev;Pelatihan Soft Skill;Honorarium;75000000;72000000;105000000;Selesai
+TRX-127;01/12/2024;IT Transformation;Pelatihan Digital Transformation;Sewa Venue;110000000;120000000;0;Berjalan
+TRX-128;05/12/2024;Leadership Center;Sertifikasi Cloud Computing;Konsumsi;32000000;30000000;0;Selesai
+TRX-129;10/12/2024;Digital Talent;Leadership Executive Batch 5;Operasional;65000000;68000000;95000000;Selesai
+TRX-130;15/12/2024;Admin & Finance;Workshop AI Bisnis;Marketing;35000000;38000000;0;Selesai
+TRX-131;18/12/2024;Learning Dev;Pengembangan LMS Telkom;Vendor Fee;490000000;475000000;620000000;Berjalan
+TRX-132;20/12/2024;IT Transformation;Pelatihan Soft Skill;Lisensi;40000000;45000000;0;Dibatalkan
+TRX-133;22/12/2024;Leadership Center;Pelatihan Digital Transformation;Honorarium;135000000;130000000;0;Selesai
+TRX-134;24/12/2024;Digital Talent;Sertifikasi Cloud Computing;Sewa Venue;190000000;205000000;275000000;Berjalan
+TRX-135;26/12/2024;Admin & Finance;Leadership Executive Batch 5;Konsumsi;28000000;30000000;0;Selesai
+TRX-136;28/12/2024;Learning Dev;Workshop AI Bisnis;Operasional;42000000;40000000;58000000;Selesai
+TRX-137;30/12/2024;IT Transformation;Pengembangan LMS Telkom;Marketing;55000000;60000000;0;Berjalan
+TRX-138;02/01/2024;Leadership Center;Pelatihan Soft Skill;Vendor Fee;95000000;90000000;0;Selesai
+TRX-139;05/01/2024;Digital Talent;Pelatihan Digital Transformation;Lisensi;230000000;245000000;320000000;Selesai
+TRX-140;10/01/2024;Admin & Finance;Sertifikasi Cloud Computing;Honorarium;160000000;155000000;0;Selesai
+TRX-141;15/01/2024;Learning Dev;Leadership Executive Batch 5;Sewa Venue;390000000;410000000;520000000;Selesai
+TRX-142;20/01/2024;IT Transformation;Workshop AI Bisnis;Konsumsi;25000000;27000000;0;Selesai
+TRX-143;25/01/2024;Leadership Center;Pengembangan LMS Telkom;Operasional;70000000;68000000;0;Berjalan
+TRX-144;30/01/2024;Digital Talent;Pelatihan Soft Skill;Marketing;22000000;25000000;32000000;Selesai
+TRX-145;05/02/2024;Admin & Finance;Pelatihan Digital Transformation;Vendor Fee;155000000;150000000;0;Selesai
+TRX-146;10/02/2024;Learning Dev;Sertifikasi Cloud Computing;Lisensi;295000000;310000000;400000000;Selesai
+TRX-147;15/02/2024;IT Transformation;Leadership Executive Batch 5;Honorarium;215000000;210000000;0;Selesai
+TRX-148;20/02/2024;Leadership Center;Workshop AI Bisnis;Sewa Venue;125000000;120000000;0;Selesai
+TRX-149;25/02/2024;Digital Talent;Pengembangan LMS Telkom;Konsumsi;35000000;38000000;50000000;Berjalan
+TRX-150;02/03/2024;Admin & Finance;Pelatihan Soft Skill;Operasional;18000000;20000000;0;Selesai
+TRX-151;07/03/2024;Learning Dev;Pelatihan Digital Transformation;Marketing;48000000;52000000;70000000;Selesai
+TRX-152;12/03/2024;IT Transformation;Sertifikasi Cloud Computing;Vendor Fee;360000000;350000000;0;Berjalan
+TRX-153;17/03/2024;Leadership Center;Leadership Executive Batch 5;Lisensi;245000000;260000000;0;Selesai
+TRX-154;22/03/2024;Digital Talent;Workshop AI Bisnis;Honorarium;145000000;140000000;200000000;Selesai
+TRX-155;27/03/2024;Admin & Finance;Pengembangan LMS Telkom;Sewa Venue;430000000;450000000;0;Berjalan
+TRX-156;01/04/2024;Learning Dev;Pelatihan Soft Skill;Konsumsi;24000000;26000000;35000000;Selesai
+TRX-157;06/04/2024;IT Transformation;Pelatihan Digital Transformation;Operasional;60000000;58000000;0;Selesai
+TRX-158;11/04/2024;Leadership Center;Sertifikasi Cloud Computing;Marketing;65000000;70000000;0;Selesai
+TRX-159;16/04/2024;Digital Talent;Leadership Executive Batch 5;Vendor Fee;340000000;330000000;450000000;Selesai
+TRX-160;21/04/2024;Admin & Finance;Workshop AI Bisnis;Lisensi;190000000;205000000;0;Selesai
+TRX-161;26/04/2024;Learning Dev;Pengembangan LMS Telkom;Honorarium;155000000;150000000;210000000;Berjalan
+TRX-162;02/05/2024;IT Transformation;Pelatihan Soft Skill;Sewa Venue;65000000;70000000;0;Dibatalkan
+TRX-163;07/05/2024;Leadership Center;Pelatihan Digital Transformation;Konsumsi;32000000;35000000;0;Selesai
+TRX-164;12/05/2024;Digital Talent;Sertifikasi Cloud Computing;Operasional;95000000;90000000;130000000;Selesai
+TRX-165;17/05/2024;Admin & Finance;Leadership Executive Batch 5;Marketing;68000000;75000000;0;Selesai
+TRX-166;22/05/2024;Learning Dev;Workshop AI Bisnis;Vendor Fee;290000000;280000000;380000000;Selesai
+TRX-167;27/05/2024;IT Transformation;Pengembangan LMS Telkom;Lisensi;205000000;220000000;0;Berjalan
+TRX-168;01/06/2024;Leadership Center;Pelatihan Soft Skill;Honorarium;85000000;82000000;0;Selesai
+TRX-169;06/06/2024;Digital Talent;Pelatihan Digital Transformation;Sewa Venue;125000000;135000000;180000000;Selesai
+TRX-170;11/06/2024;Admin & Finance;Sertifikasi Cloud Computing;Konsumsi;38000000;42000000;0;Selesai
+TRX-171;16/06/2024;Learning Dev;Leadership Executive Batch 5;Operasional;75000000;72000000;110000000;Selesai
+TRX-172;21/06/2024;IT Transformation;Workshop AI Bisnis;Marketing;42000000;45000000;0;Selesai
+TRX-173;26/06/2024;Leadership Center;Pengembangan LMS Telkom;Vendor Fee;475000000;460000000;0;Berjalan
+TRX-174;01/07/2024;Digital Talent;Pelatihan Soft Skill;Lisensi;55000000;60000000;85000000;Selesai
+TRX-175;06/07/2024;Admin & Finance;Pelatihan Digital Transformation;Honorarium;145000000;140000000;0;Selesai
+TRX-176;11/07/2024;Learning Dev;Sertifikasi Cloud Computing;Sewa Venue;210000000;225000000;290000000;Selesai
+TRX-177;16/07/2024;IT Transformation;Leadership Executive Batch 5;Konsumsi;35000000;38000000;0;Selesai
+TRX-178;21/07/2024;Leadership Center;Workshop AI Bisnis;Operasional;55000000;52000000;0;Selesai
+TRX-179;26/07/2024;Digital Talent;Pengembangan LMS Telkom;Marketing;70000000;75000000;105000000;Berjalan
+TRX-180;01/08/2024;Admin & Finance;Pelatihan Soft Skill;Vendor Fee;110000000;105000000;0;Selesai
+TRX-181;06/08/2024;Learning Dev;Pelatihan Digital Transformation;Lisensi;255000000;270000000;350000000;Selesai
+TRX-182;11/08/2024;IT Transformation;Sertifikasi Cloud Computing;Honorarium;175000000;170000000;0;Selesai
+TRX-183;16/08/2024;Leadership Center;Leadership Executive Batch 5;Sewa Venue;405000000;425000000;0;Berjalan
+TRX-184;21/08/2024;Digital Talent;Workshop AI Bisnis;Konsumsi;32000000;35000000;48000000;Selesai
+TRX-185;26/08/2024;Admin & Finance;Pengembangan LMS Telkom;Operasional;85000000;82000000;0;Selesai
+TRX-186;01/09/2024;Learning Dev;Pelatihan Soft Skill;Marketing;30000000;35000000;45000000;Selesai
+TRX-187;06/09/2024;IT Transformation;Pelatihan Digital Transformation;Vendor Fee;175000000;170000000;0;Selesai
+TRX-188;11/09/2024;Leadership Center;Sertifikasi Cloud Computing;Lisensi;315000000;330000000;0;Selesai
+TRX-189;16/09/2024;Digital Talent;Leadership Executive Batch 5;Honorarium;235000000;230000000;310000000;Selesai
+TRX-190;21/09/2024;Admin & Finance;Workshop AI Bisnis;Sewa Venue;145000000;140000000;0;Selesai
+TRX-191;26/09/2024;Learning Dev;Pengembangan LMS Telkom;Konsumsi;42000000;45000000;60000000;Berjalan
+TRX-192;01/10/2024;IT Transformation;Pelatihan Soft Skill;Operasional;25000000;28000000;0;Dibatalkan
+TRX-193;06/10/2024;Leadership Center;Pelatihan Digital Transformation;Marketing;58000000;62000000;0;Selesai
+TRX-194;11/10/2024;Digital Talent;Sertifikasi Cloud Computing;Vendor Fee;385000000;375000000;500000000;Selesai
+TRX-195;16/10/2024;Admin & Finance;Leadership Executive Batch 5;Lisensi;265000000;280000000;0;Selesai
+TRX-196;21/10/2024;Learning Dev;Workshop AI Bisnis;Honorarium;165000000;160000000;225000000;Selesai
+TRX-197;26/10/2024;IT Transformation;Pengembangan LMS Telkom;Sewa Venue;455000000;480000000;0;Berjalan
+TRX-198;01/11/2024;Leadership Center;Pelatihan Soft Skill;Konsumsi;29000000;32000000;0;Selesai
+TRX-199;06/11/2024;Digital Talent;Pelatihan Digital Transformation;Operasional;70000000;68000000;95000000;Selesai
+TRX-200;11/11/2024;Admin & Finance;Sertifikasi Cloud Computing;Marketing;75000000;82000000;0;Selesai
+TRX-201;16/11/2024;Learning Dev;Leadership Executive Batch 5;Vendor Fee;365000000;355000000;480000000;Selesai
+TRX-202;21/11/2024;IT Transformation;Workshop AI Bisnis;Lisensi;215000000;230000000;0;Selesai
+TRX-203;26/11/2024;Leadership Center;Pengembangan LMS Telkom;Honorarium;175000000;170000000;0;Berjalan
+TRX-204;01/12/2024;Digital Talent;Pelatihan Soft Skill;Sewa Venue;78000000;85000000;115000000;Selesai
+TRX-205;05/12/2024;Admin & Finance;Pelatihan Digital Transformation;Konsumsi;45000000;48000000;0;Selesai
+TRX-206;10/12/2024;Learning Dev;Sertifikasi Cloud Computing;Operasional;115000000;110000000;150000000;Selesai
+TRX-207;15/12/2024;IT Transformation;Leadership Executive Batch 5;Marketing;82000000;90000000;0;Selesai
+TRX-208;18/12/2024;Leadership Center;Workshop AI Bisnis;Vendor Fee;315000000;305000000;0;Selesai
+TRX-209;20/12/2024;Digital Talent;Pengembangan LMS Telkom;Lisensi;235000000;250000000;320000000;Berjalan
+TRX-210;22/12/2024;Admin & Finance;Pelatihan Soft Skill;Honorarium;105000000;100000000;0;Dibatalkan
+TRX-211;24/12/2024;Learning Dev;Pelatihan Digital Transformation;Sewa Venue;155000000;170000000;220000000;Selesai
+TRX-212;26/12/2024;IT Transformation;Sertifikasi Cloud Computing;Konsumsi;48000000;52000000;0;Selesai
+TRX-213;28/12/2024;Leadership Center;Leadership Executive Batch 5;Operasional;90000000;85000000;0;Berjalan
+TRX-214;30/12/2024;Digital Talent;Workshop AI Bisnis;Marketing;55000000;60000000;80000000;Selesai
+TRX-215;02/01/2024;Admin & Finance;Pengembangan LMS Telkom;Vendor Fee;480000000;465000000;0;Selesai
+TRX-216;05/01/2024;Learning Dev;Pelatihan Soft Skill;Lisensi;65000000;70000000;95000000;Selesai
+TRX-217;10/01/2024;IT Transformation;Pelatihan Digital Transformation;Honorarium;165000000;160000000;0;Selesai
+TRX-218;15/01/2024;Leadership Center;Sertifikasi Cloud Computing;Sewa Venue;235000000;250000000;0;Selesai
+TRX-219;20/01/2024;Digital Talent;Leadership Executive Batch 5;Konsumsi;48000000;52000000;70000000;Selesai
+TRX-220;25/01/2024;Admin & Finance;Workshop AI Bisnis;Operasional;65000000;62000000;0;Selesai
+TRX-221;30/01/2024;Learning Dev;Pengembangan LMS Telkom;Marketing;85000000;92000000;120000000;Berjalan
+TRX-222;05/02/2024;IT Transformation;Pelatihan Soft Skill;Vendor Fee;135000000;130000000;0;Selesai
+TRX-223;10/02/2024;Leadership Center;Pelatihan Digital Transformation;Lisensi;275000000;290000000;0;Selesai
+TRX-224;15/02/2024;Digital Talent;Sertifikasi Cloud Computing;Honorarium;195000000;190000000;260000000;Selesai
+TRX-225;20/02/2024;Admin & Finance;Leadership Executive Batch 5;Sewa Venue;425000000;445000000;0;Selesai
+TRX-226;25/02/2024;Learning Dev;Workshop AI Bisnis;Konsumsi;38000000;42000000;55000000;Selesai
+TRX-227;02/03/2024;IT Transformation;Pengembangan LMS Telkom;Operasional;95000000;92000000;0;Berjalan
+TRX-228;07/03/2024;Leadership Center;Pelatihan Soft Skill;Marketing;45000000;50000000;0;Selesai
+TRX-229;12/03/2024;Digital Talent;Pelatihan Digital Transformation;Vendor Fee;195000000;190000000;260000000;Selesai
+TRX-230;17/03/2024;Admin & Finance;Sertifikasi Cloud Computing;Lisensi;335000000;350000000;0;Dibatalkan
+TRX-231;22/03/2024;Learning Dev;Leadership Executive Batch 5;Honorarium;255000000;250000000;340000000;Selesai
+TRX-232;27/03/2024;IT Transformation;Workshop AI Bisnis;Sewa Venue;165000000;160000000;0;Selesai
+TRX-233;01/04/2024;Leadership Center;Pengembangan LMS Telkom;Konsumsi;55000000;60000000;0;Berjalan
+TRX-234;06/04/2024;Digital Talent;Pelatihan Soft Skill;Operasional;35000000;33000000;45000000;Selesai
+TRX-235;11/04/2024;Admin & Finance;Pelatihan Digital Transformation;Marketing;68000000;75000000;0;Selesai
+TRX-236;16/04/2024;Learning Dev;Sertifikasi Cloud Computing;Vendor Fee;405000000;395000000;520000000;Selesai
+TRX-237;21/04/2024;IT Transformation;Leadership Executive Batch 5;Lisensi;285000000;300000000;0;Selesai
+TRX-238;26/04/2024;Leadership Center;Workshop AI Bisnis;Honorarium;185000000;180000000;0;Selesai
+TRX-239;02/05/2024;Digital Talent;Pengembangan LMS Telkom;Sewa Venue;475000000;500000000;650000000;Berjalan
+TRX-240;07/05/2024;Admin & Finance;Pelatihan Soft Skill;Konsumsi;32000000;35000000;0;Selesai
+TRX-241;12/05/2024;Learning Dev;Pelatihan Digital Transformation;Operasional;85000000;82000000;115000000;Selesai
+TRX-242;17/05/2024;IT Transformation;Sertifikasi Cloud Computing;Marketing;85000000;92000000;0;Selesai
+TRX-243;22/05/2024;Leadership Center;Leadership Executive Batch 5;Vendor Fee;385000000;375000000;0;Selesai
+TRX-244;27/05/2024;Digital Talent;Workshop AI Bisnis;Lisensi;235000000;250000000;330000000;Selesai
+TRX-245;01/06/2024;Admin & Finance;Pengembangan LMS Telkom;Honorarium;195000000;190000000;0;Berjalan
+TRX-246;06/06/2024;Learning Dev;Pelatihan Soft Skill;Sewa Venue;95000000;105000000;140000000;Selesai
+TRX-247;11/06/2024;IT Transformation;Pelatihan Digital Transformation;Konsumsi;55000000;60000000;0;Selesai
+TRX-248;16/06/2024;Leadership Center;Sertifikasi Cloud Computing;Operasional;135000000;130000000;0;Selesai
+TRX-249;21/06/2024;Digital Talent;Leadership Executive Batch 5;Marketing;95000000;105000000;140000000;Selesai
+TRX-250;26/06/2024;Admin & Finance;Workshop AI Bisnis;Vendor Fee;335000000;325000000;0;Selesai
+TRX-251;01/07/2024;Learning Dev;Pengembangan LMS Telkom;Lisensi;255000000;270000000;350000000;Berjalan
+TRX-252;06/07/2024;IT Transformation;Pelatihan Soft Skill;Honorarium;115000000;110000000;0;Dibatalkan
+TRX-253;11/07/2024;Leadership Center;Pelatihan Digital Transformation;Sewa Venue;175000000;190000000;0;Selesai
+TRX-254;16/07/2024;Digital Talent;Sertifikasi Cloud Computing;Konsumsi;58000000;62000000;85000000;Selesai
+TRX-255;21/07/2024;Admin & Finance;Leadership Executive Batch 5;Operasional;105000000;100000000;0;Selesai
+TRX-256;26/07/2024;Learning Dev;Workshop AI Bisnis;Marketing;65000000;72000000;95000000;Selesai
+TRX-257;01/08/2024;IT Transformation;Pengembangan LMS Telkom;Vendor Fee;500000000;485000000;0;Berjalan
+TRX-258;06/08/2024;Leadership Center;Pelatihan Soft Skill;Lisensi;85000000;92000000;0;Selesai
+TRX-259;11/08/2024;Digital Talent;Pelatihan Digital Transformation;Honorarium;175000000;170000000;235000000;Selesai
+TRX-260;16/08/2024;Admin & Finance;Sertifikasi Cloud Computing;Sewa Venue;255000000;270000000;0;Selesai
+TRX-261;21/08/2024;Learning Dev;Leadership Executive Batch 5;Konsumsi;62000000;68000000;90000000;Selesai
+TRX-262;26/08/2024;IT Transformation;Workshop AI Bisnis;Operasional;85000000;82000000;0;Selesai
+TRX-263;01/09/2024;Leadership Center;Pengembangan LMS Telkom;Marketing;95000000;105000000;0;Berjalan
+TRX-264;06/09/2024;Digital Talent;Pelatihan Soft Skill;Vendor Fee;155000000;150000000;205000000;Selesai
+TRX-265;11/09/2024;Admin & Finance;Pelatihan Digital Transformation;Lisensi;295000000;310000000;0;Selesai
+TRX-266;16/09/2024;Learning Dev;Sertifikasi Cloud Computing;Honorarium;215000000;210000000;285000000;Selesai
+TRX-267;21/09/2024;IT Transformation;Leadership Executive Batch 5;Sewa Venue;445000000;470000000;0;Selesai
+TRX-268;26/09/2024;Leadership Center;Workshop AI Bisnis;Konsumsi;45000000;48000000;0;Selesai
+TRX-269;01/10/2024;Digital Talent;Pengembangan LMS Telkom;Operasional;115000000;110000000;155000000;Berjalan
+TRX-270;06/10/2024;Admin & Finance;Pelatihan Soft Skill;Marketing;55000000;60000000;0;Selesai
+TRX-271;11/10/2024;Learning Dev;Pelatihan Digital Transformation;Vendor Fee;215000000;210000000;285000000;Selesai
+TRX-272;16/10/2024;IT Transformation;Sertifikasi Cloud Computing;Lisensi;355000000;370000000;0;Dibatalkan
+TRX-273;21/10/2024;Leadership Center;Leadership Executive Batch 5;Honorarium;275000000;270000000;0;Selesai
+TRX-274;26/10/2024;Digital Talent;Workshop AI Bisnis;Sewa Venue;185000000;180000000;245000000;Selesai
+TRX-275;01/11/2024;Admin & Finance;Pengembangan LMS Telkom;Konsumsi;65000000;70000000;0;Berjalan
+TRX-276;06/11/2024;Learning Dev;Pelatihan Soft Skill;Operasional;45000000;42000000;60000000;Selesai
+TRX-277;11/11/2024;IT Transformation;Pelatihan Digital Transformation;Marketing;78000000;85000000;0;Selesai
+TRX-278;16/11/2024;Leadership Center;Sertifikasi Cloud Computing;Vendor Fee;425000000;415000000;0;Selesai
+TRX-279;21/11/2024;Digital Talent;Leadership Executive Batch 5;Lisensi;305000000;320000000;420000000;Selesai
+TRX-280;26/11/2024;Admin & Finance;Workshop AI Bisnis;Honorarium;205000000;200000000;0;Selesai
+TRX-281;01/12/2024;Learning Dev;Pengembangan LMS Telkom;Sewa Venue;495000000;510000000;680000000;Berjalan
+TRX-282;05/12/2024;IT Transformation;Pelatihan Soft Skill;Konsumsi;38000000;42000000;0;Selesai
+TRX-283;10/12/2024;Leadership Center;Pelatihan Digital Transformation;Operasional;95000000;92000000;0;Selesai
+TRX-284;15/12/2024;Digital Talent;Sertifikasi Cloud Computing;Marketing;95000000;105000000;140000000;Selesai
+TRX-285;18/12/2024;Admin & Finance;Leadership Executive Batch 5;Vendor Fee;405000000;395000000;0;Selesai
+TRX-286;20/12/2024;Learning Dev;Workshop AI Bisnis;Lisensi;255000000;270000000;355000000;Selesai
+TRX-287;22/12/2024;IT Transformation;Pengembangan LMS Telkom;Honorarium;215000000;210000000;0;Berjalan
+TRX-288;24/12/2024;Leadership Center;Pelatihan Soft Skill;Sewa Venue;105000000;115000000;0;Dibatalkan
+TRX-289;26/12/2024;Digital Talent;Pelatihan Digital Transformation;Konsumsi;65000000;70000000;95000000;Selesai
+TRX-290;28/12/2024;Admin & Finance;Sertifikasi Cloud Computing;Operasional;145000000;140000000;0;Selesai
+TRX-291;30/12/2024;Learning Dev;Leadership Executive Batch 5;Marketing;105000000;115000000;150000000;Selesai
+TRX-292;02/01/2024;IT Transformation;Workshop AI Bisnis;Vendor Fee;355000000;345000000;0;Selesai
+TRX-293;05/01/2024;Leadership Center;Pengembangan LMS Telkom;Lisensi;275000000;290000000;0;Berjalan
+TRX-294;10/01/2024;Digital Talent;Pelatihan Soft Skill;Honorarium;125000000;120000000;165000000;Selesai
+TRX-295;15/01/2024;Admin & Finance;Pelatihan Digital Transformation;Sewa Venue;195000000;210000000;0;Selesai
+TRX-296;20/01/2024;Learning Dev;Sertifikasi Cloud Computing;Konsumsi;68000000;75000000;100000000;Selesai
+TRX-297;25/01/2024;IT Transformation;Leadership Executive Batch 5;Operasional;115000000;110000000;0;Selesai
+TRX-298;30/01/2024;Leadership Center;Workshop AI Bisnis;Marketing;75000000;82000000;0;Selesai
+TRX-299;05/02/2024;Digital Talent;Pengembangan LMS Telkom;Vendor Fee;500000000;490000000;650000000;Berjalan
+TRX-300;10/02/2024;Admin & Finance;Pelatihan Soft Skill;Lisensi;95000000;105000000;0;Selesai
